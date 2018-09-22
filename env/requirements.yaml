@@ -9,4 +9,4 @@ dependencies:
   version: 2.3.58
 - name: jw-demo-875
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
+  version: 0.0.7
