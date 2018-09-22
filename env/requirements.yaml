@@ -10,3 +10,6 @@ dependencies:
 - name: jw-demo-875
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.7
+- name: jw-demo874
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
