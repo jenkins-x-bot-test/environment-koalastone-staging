@@ -10,3 +10,6 @@ dependencies:
 - name: jw-demo874
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: tokyo-2
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
